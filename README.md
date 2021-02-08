@@ -6,4 +6,4 @@
 
 ## Assignments
 
-![Assignment 0: Getting Started with R]
+![Assignment 0: Getting Started with R](getting-started.md) 
