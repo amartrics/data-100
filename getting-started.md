@@ -2,6 +2,6 @@
 
 For our first informal assignment, I tested the plotting capabilities of R and RStudio.
 
-Getting Started with R
+### Getting Started with R
 
-R Challenge
+### R Challenge
