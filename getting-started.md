@@ -4,7 +4,7 @@ For our first informal assignment, I tested the plotting capabilities of R and R
 
 ### Getting Started with R
 
-![first-plot](first-plot.png) 
+![first-plot](first_plot.png) 
 
 ### R Challenge
 
