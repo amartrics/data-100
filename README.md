@@ -6,5 +6,5 @@
 
 ## Assignments
 
-![Assignment 0: Getting Started with R](getting-started.md)  
-![Assignment 1: Spatial Population Description](assignment_1.md)
+[Assignment 0: Getting Started with R](getting-started.md)  
+[Assignment 1: Spatial Population Description](assignment_1.md)
