@@ -10,4 +10,4 @@
 [Assignment 1: Spatial Population Description](assignment_1.md)
 
 ## Informal Responses
-Informal Response 1: Joshua Blumenstock, "Dont Forget People in the Use of Big Data for Development"
+[Informal Response 1: Joshua Blumenstock, "Dont Forget People in the Use of Big Data for Development"]{informal_1.md)
