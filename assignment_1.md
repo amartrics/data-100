@@ -6,6 +6,6 @@ For this assignment, I used shapefiles representing the small island country of 
 
 ## Stretch Goals
 
-One of the stretch goal associated with this assignment involved isolating the most populous county of a country and plotting it. In Brunei, the most highly-populated county is Brunei & Muara, which has several smaller subdivisions contained within it. Mapping this county and its subdivisions with ggplot() created the image below. 
+One of the stretch goals associated with this assignment involved isolating the most populous county of a country and plotting it. In Brunei, the most highly-populated county is Brunei & Muara, which has several smaller subdivisions contained within it. Mapping this county and its subdivisions with ggplot() created the image below. 
 
 ![plot_2](stretch1_plot.png)
