@@ -8,6 +8,7 @@
 
 [Assignment 0: Getting Started with R](getting-started.md)  
 [Assignment 1: Spatial Population Description](assignment_1.md)
+[Assignment 2: Extracting Populations from a Raster and Aggregating to Each Unit](assign_2.md)
 
 ## Informal Responses
 [Informal Response 1: Joshua Blumenstock, "Dont Forget People in the Use of Big Data for Development"](informal_1.md)
