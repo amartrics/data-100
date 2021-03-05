@@ -28,4 +28,4 @@ Finally, the last stretch goal required the creation of a rotating 3D plot featu
 
 Part 2 of Assignment 2 included generating a bar plot that represents the distribution and density of Brunei's population by first-level adminstrative borders (county lines). I used my shapefile objects and dataframes from the previous portion of the assignment to accomplish this. 
 
-![brunei_bar](assign2_deliverables.png)
+![brunei](https://user-images.githubusercontent.com/70035366/110176801-e5aeb100-7dd1-11eb-870d-bf75d6dbb306.png)
