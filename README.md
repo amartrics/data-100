@@ -8,7 +8,7 @@
 
 [Assignment 0: Getting Started with R](getting-started.md)  
 [Assignment 1: Spatial Population Description](assignment_1.md)  
-[Assignment 2: Extracting Populations from a Raster and Aggregating to Each Unit](assign_2.md) 
+[Assignment 2: Extracting Populations from a Raster and Aggregating to Each Unit](assign_2.md)  
 [Assignment 3: Creating a Geometric Bar Plot with a Simple Feature Object](assign_3.md) 
 
 ## Informal Responses
