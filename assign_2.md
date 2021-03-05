@@ -8,3 +8,4 @@ For this assignment, I used my ggplot() of Brunei-Darussalam in conjunction with
 
 This stretch goal involved plotting counts of population density across a country's secondary admninistrative boundaries. 
 
+![adm2 map](assign2_stretch1_plot.png)
