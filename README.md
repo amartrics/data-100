@@ -7,8 +7,9 @@
 ## Assignments
 
 [Assignment 0: Getting Started with R](getting-started.md)  
-[Assignment 1: Extracting Populations from a Raster and Aggregating to Each Unit](assignment_1.md)  
-[Assignment 2: Spatial Population Description](assign_2.md)   
+[Assignment 1: Projecting, Plotting, and Labelling Admistrative Subdivisions](assignment_1.md)  
+[Assignment 2: Extracting Populations from a Raster and Aggregating to Each Unit](assign_2.md)    
+[Assignment 3: Creating a Geometric Bar Plot from a Simple Feature Object](assign_3.md)
 
 ## Informal Responses
 [Informal Response 1: Joshua Blumenstock, "Dont Forget People in the Use of Big Data for Development"](informal_1.md)
