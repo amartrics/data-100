@@ -7,4 +7,4 @@ The Challenge Question at the end of this assignment (technically, the deliverab
 ## Stretch Goal 1 
 Stretch Goal 1 of this assignment levied the task of breaking down the plot from the Challenge Question. Creating a sectioned bar graph according to this assignment allowed me to visually represent the division of population density not only across first-level, but also second-level administrative boundaries in Brunei. 
 
-![brn_adm2_bp](https://user-images.githubusercontent.com/70035366/110180135-3c6ab980-7dd7-11eb-87d8-73787bf49acd.png)
+![brn_adm2_bargraph](https://user-images.githubusercontent.com/70035366/110181172-3675d800-7dd9-11eb-97a7-9ca7d5418443.png)
