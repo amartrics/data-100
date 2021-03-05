@@ -8,4 +8,10 @@ For this assignment, I used my ggplot() of Brunei-Darussalam in conjunction with
 
 This stretch goal involved plotting counts of population density across a country's secondary admninistrative boundaries. 
 
-![adm2 map](assign2_stretch1_plot.png)
+![stretch 1](assign2_stretch1_plot.png)
+
+## Stretch Goal 2
+
+The second stretch goal for this assignment featured the task of plotting both administrative levels on a single population heatmap. 
+
+![stretch 2](assign2_stretch2_plot.png)
