@@ -20,4 +20,4 @@ The second stretch goal for this assignment featured the task of plotting both a
 
 Finally, the last stretch goal required the creation of a rotating 3D plot featuring information on Brunei's population density. I used the packages rgl, devtools, and rayshader to create a three-dimensional map of the country. 
 
-![stretch_3](brunei3d.mp4)
+https://user-images.githubusercontent.com/70035366/110175631-1beb3100-7dd0-11eb-8314-ab60683a691e.mp4
