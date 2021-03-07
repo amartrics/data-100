@@ -1,4 +1,4 @@
-# Creating a Geometric Bar Plot from a Simple Feature Object
+# Assignment 3: Creating a Geometric Bar Plot from a Simple Feature Object
 
 The Challenge Question at the end of this assignment (technically, the deliverable for Project 2.2 according to the syllabus) included generating a bar plot that represents the distribution and density of Brunei's population by first-level adminstrative borders (county lines). I used my shapefile objects and dataframes from the previous assignment to accomplish this. 
 
