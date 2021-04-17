@@ -10,7 +10,7 @@
 [Assignment 1: Projecting, Plotting, and Labelling Admistrative Subdivisions](assignment_1.md)  
 [Assignment 2: Extracting Populations from a Raster and Aggregating to Each Unit](assign_2.md)    
 [Assignment 3: Creating a Geometric Bar Plot from a Simple Feature Object](assign_3.md)     
-[Assignment 4: Acquiring, Modifying, and Describing Data](assign_4.md)
+[Assignment 4: Acquiring, Modifying, and Describing Data](assign_4.md)   
 [Assignment 5: Modeling and Predicting Spatial Values](assign_5.md)
 
 ## Informal Responses
