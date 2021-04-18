@@ -1,11 +1,11 @@
 # Assignment 5: Modeling and Predicting Spatial Values
 
-This lab stipulated the creation and manipulation of several rasters in order to generate 3D and graduated maps of population density per gridcell in the most populous urban area of Brunei-Darussalam - the administrative subdivision of Gadong. The use of filters and cellStat functions was also employed to perform analyses of the collected data in comparison to actuals. Differentiation in color and height of cels represents the accuracy of plotted data. 
+This lab stipulated the creation and manipulation of several rasters in order to generate 3D and graduated maps of population density per gridcell in the most populous urban area of Brunei-Darussalam in the first-level administrative subdivision of Brunei-Muara as well as the second-level urban subdivision of Gadong. The use of filters and cellStat functions was also employed to perform analyses of the collected data in comparison to actuals. The differentiation in the coloration of pixels represents the accuracy of plotted data. 
 
-![diff_plot](https://user-images.githubusercontent.com/70035366/115130436-cb194b80-9fbd-11eb-8010-35f5ae499752.gif)
+## Predicted Totals of Population-Per-Pixel (PPP) in First-Level Administrative Subdivision Brunei-Muara
 
-The "spikes" in this data likely represent discrepancies in the original file, where it seems that data was processed or collected in a regular pattern with equal amounts of error accorded to certain areas. 
+![Screenshot (129)](https://user-images.githubusercontent.com/70035366/115154929-715f6280-a04b-11eb-8492-78916f31a539.png)
+
+## Predicted Totals of Population-Per-Pixel (PPP) in Second-Level Administrative Subdivision Gadong
 
 ![Screenshot (128)](https://user-images.githubusercontent.com/70035366/115130481-264b3e00-9fbe-11eb-948b-5964ebe818d9.png)
-
-The secondary plot produced in this lab used the mapview library, and shows a better representation of the relative inaccuracies in population-per-gridcell counts. 
