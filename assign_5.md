@@ -8,4 +8,4 @@ The "spikes" in this data likely represent discrepancies in the original file, w
 
 ![Screenshot (128)](https://user-images.githubusercontent.com/70035366/115130481-264b3e00-9fbe-11eb-948b-5964ebe818d9.png)
 
-The mapview in this image shows a better representation of data inaccuracies compared to R's calculations. 
+The secondary plot produced in this lab used the mapview library, and shows a better representation of the relative inaccuracies in population-per-gridcell counts. 
