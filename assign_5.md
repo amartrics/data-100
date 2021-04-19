@@ -81,3 +81,11 @@ This plot visually describes the differences between population count per gridce
 This plot visualizes a logarithm of the population count predicted by averaged covariates in three dimensions. 
 
 ![Screenshot (132)](https://user-images.githubusercontent.com/70035366/115166911-6fb19100-a083-11eb-82c6-22a3d4d42dd4.png)
+
+### Reference Plot: Plotted WorldPop Data 
+
+![brn_pop15_plot](https://user-images.githubusercontent.com/70035366/115167062-02eac680-a084-11eb-8be1-d3cb038342a8.png)
+
+## Part 3: Written Statement
+
+It seems that out of all three models, the formula that relies on averaged covariates to produce a predicted count of Brunei-Darussalam's population is most accurate. The graphs demonstrate the most reliability in terms of their cohesiveness and least amount of qualitative visual difference from the plotted WorldPop data. 
