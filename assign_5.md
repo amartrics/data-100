@@ -88,4 +88,4 @@ This plot visualizes a logarithm of the population count predicted by averaged c
 
 ## Part 3: Written Statement
 
-It seems that out of all three models, the formula that relies on averaged covariates to produce a predicted count of Brunei-Darussalam's population is most accurate. The graphs demonstrate the most reliability in terms of their cohesiveness and least amount of qualitative visual difference from the plotted WorldPop data. 
+Because Brunei-Darussalam's population is so small in the first place, there is not a lot of evident differentiation in the various plots of its population. The fact that only extremely small portions of the country appear on the plots of variation are proof of this. However, it seems that out of all three models, the formula that relies on averaged covariates to produce a predicted count of Brunei-Darussalam's population is most accurate. The graphs demonstrate the most reliability in terms of their cohesiveness and least amount of qualitative visual difference from the plotted WorldPop data. 
