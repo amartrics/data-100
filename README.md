@@ -16,4 +16,5 @@
 ## Informal Responses
 [Informal Response 1: Joshua Blumenstock, "Dont Forget People in the Use of Big Data for Development"](informal_1.md)    
 [Informal Response 2: Rob Kitchen, "Big Data, new epistemologies and paradigm shifts" and Chris Anderson, "The end of theory"](informal_2.md)        
-[Informal Response 3: Owen Barder, "Development and Complexity"](informal_3.md)
+[Informal Response 3: Owen Barder, "Development and Complexity"](informal_3.md)  
+[Informal Response 4: Geoffrey West, "Scale"](informal_4.md)
