@@ -12,6 +12,7 @@
 [Assignment 3: Creating a Geometric Bar Plot from a Simple Feature Object](assign_3.md)     
 [Assignment 4: Acquiring, Modifying, and Describing Data](assign_4.md)   
 [Assignment 5: Modeling & Predicting Spatial Values and Investigating & Comparing Results](assign_5.md)
+
 [Assignment 6: De Facto Description of Human Settlements, Urban Areas, Health Facilities, and Topography](assign_6.md)
 
 ## Informal Responses
