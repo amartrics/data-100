@@ -12,8 +12,7 @@ For the final project assigned this semester, I produced a spatial plot of the m
 ## Roads and Healthcare Facilities throughout Gadong and Sengkurong
 ![gad_seng_hcf](https://user-images.githubusercontent.com/70035366/118214691-34b23b80-b43e-11eb-8964-8de68c1ac6a5.png)
 
-The total population of the second-level administrative subdivisions of Gadong and Sengkurong is 33,267. 
-    Total population of selected and combined adm2, adm3 or adm4 areas and the total number of distinctly defined human settlements or urban areas
-    A description of the distribution of sizes and densities of all human settlements and urban areas throughout your selected and combined adm2, adm3 or adm4 areas
+The total population of the second-level administrative subdivisions of Gadong and Sengkurong is 33,267. There are 6 distinctly-defined human settlements in total within the bounds of these two subdivisions. Gadong is the most populous district in Brunei-Darussalam, but has only one densely populated urban settlement. On the other hand, there a few urban areas of different dimensions and dimensions in Sengkurong. There is a lot of seemingly unpopulated (or very sparsely-populated) space throughout the region made up of these two combined districts. A few major roads intersect the area, with 
+
     A description of the roadways and your estimate of the transportation networks level of service in comparison to the spatial distriubtion of human settlements and urban areas
     A description of health care facilities and your estimate of service accessibility in comparison to the spatial distriubtion of human settlements and urban areas
