@@ -11,3 +11,9 @@ For the final project assigned this semester, I produced a spatial plot of the m
 
 ## Roads and Healthcare Facilities throughout Gadong and Sengkurong
 ![gad_seng_hcf](https://user-images.githubusercontent.com/70035366/118214691-34b23b80-b43e-11eb-8964-8de68c1ac6a5.png)
+
+The total population of the second-level administrative subdivisions of Gadong and Sengkurong is 33,267. 
+    Total population of selected and combined adm2, adm3 or adm4 areas and the total number of distinctly defined human settlements or urban areas
+    A description of the distribution of sizes and densities of all human settlements and urban areas throughout your selected and combined adm2, adm3 or adm4 areas
+    A description of the roadways and your estimate of the transportation networks level of service in comparison to the spatial distriubtion of human settlements and urban areas
+    A description of health care facilities and your estimate of service accessibility in comparison to the spatial distriubtion of human settlements and urban areas
